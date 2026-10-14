@@ -110,3 +110,11 @@ Discrepancies found:
 1. Compare the hole table above with Fig. 5-2 of the SLAMTEC datasheet.
 2. Plot `Edge.Cuts`, `F.Fab` and the drill layer **1:1 on paper** (File → Print, scale 1). Check the paper scale with the 96.66 mm dimension, then lay the real A1M8 on it.
 3. Measure the standoff length on your unit. Some batches or kits may differ, and this changes all the height limits.
+
+## Licence
+
+Copyright (c) 2026 Anders Frandsen.
+
+This hardware design is licensed under the **CERN Open Hardware Licence Version 2 – Permissive** (CERN-OHL-P-2.0). See [`LICENSE`](LICENSE). The RPLIDAR A1M8 3D model in `3dmodels/` is third-party material under Apache-2.0. See [`NOTICE`](NOTICE) for details.
+
+Source Location: https://github.com/AndersFrandsen/RPLIDAR_A1M8_HAT
